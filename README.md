@@ -12,6 +12,4 @@ Reupload your own animations to any account — no bloat, no friction.
 
 **[→ download v1.0](https://github.com/c7s89r/Raw-spoofer/releases/tag/v1.0)**
 
-`GPL-3.0` · c7s89r
-
 </div>
