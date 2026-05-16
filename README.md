@@ -1,39 +1,31 @@
-# Raw-spoofer
-> fast. stable. always updated.
+<div align="left">
 
-A Roblox asset reuploader — built to be simple and actually work.  
-Reupload assets owned by other accounts so you can use them freely.
+# Raw-spoofer &nbsp; `v1.0`
 
----
+Roblox asset reuploader — fast, stable, always updated.
 
-## install
-grab the latest build from [releases →](https://github.com/c7s89r/Raw-spoofer/releases/latest)
+![downloads](https://img.shields.io/github/downloads/c7s89r/Raw-spoofer/total?style=flat-square&label=downloads&color=555)
+![version](https://img.shields.io/github/v/release/c7s89r/Raw-spoofer?style=flat-square&label=latest&color=555)
+![license](https://img.shields.io/github/license/c7s89r/Raw-spoofer?style=flat-square&color=555)
 
-![version](https://img.shields.io/github/v/release/c7s89r/Raw-spoofer?style=flat-square&color=white&label=)
-![downloads](https://img.shields.io/github/downloads/c7s89r/Raw-spoofer/total?style=flat-square&color=white&label=downloads)
+</div>
 
 ---
 
-## what it does
-- reuploads assets that aren't owned by you
-- fast & lightweight
-- stays up to date
+## about
 
----
+Reupload your own animations to any account — fast, stable, no friction.
 
 ## supported assets
+
 | type | status |
 |------|--------|
-| animations | ✓ free |
-| audio | coming soon |
-| meshes | coming soon |
+| animations | ✓ |
 
 ---
 
-## contributing
-prs and forks welcome at any time — no formalities needed.  
-open an issue if something's broken or you want something added.
+**[→ download v1.0](https://github.com/c7s89r/Raw-spoofer/releases/tag/v1.0)**
 
 ---
 
-`MIT` · made by c7s89r
+`GPL-3.0` · c7s89r
